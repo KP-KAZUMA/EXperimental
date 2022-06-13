@@ -4,7 +4,7 @@
 GitHubのReadmeってマーメイド対応している？
 ```mermaid
   graph TD;
-  A['index.html']
+  A["index.html"]
       A-->B;
       A-->C;
       B-->D;
