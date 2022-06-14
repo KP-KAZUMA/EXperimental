@@ -30,7 +30,9 @@ const deleteTasks = (deleteButton) => {
 // 追加ボタンをクリックし、イベントを発動（タスクが追加）
 taskSubmit.addEventListener('click', evt => {
   evt.preventDefault();
-  const task = taskValue.value;
-  addTasks(task);
+  if (taskValue.value != ''){
+    const task = taskValue.value;
+    addTasks(task);  
+  }
   taskValue.value = '';
 });
