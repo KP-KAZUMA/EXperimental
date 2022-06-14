@@ -1,7 +1,7 @@
 # いろいろお試し中
 練習用レポジトリ
 
-GitHubのReadmeってマーメイド対応している？
+index(トップページ)からいろいろな機能にアクセスする
 ```mermaid
   graph TD;
   A["index"]
