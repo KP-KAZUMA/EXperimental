@@ -5,8 +5,7 @@ GitHubのReadmeってマーメイド対応している？
 ```mermaid
   graph TD;
   A["index"]
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+  B["degital<br>clock"]
+  C["TODO"]
+      A-->B & C;
 ```
