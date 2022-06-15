@@ -1,11 +1,11 @@
 .calculator {
-  width: 205px;
+  width: 213px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, .5);
   margin: auto;
 }
 
 .display {
-  width: 205px;
+  width: 213px;
   background: #5b5b5b;
   text-align:right;
   border: 1px solid #000;
@@ -28,12 +28,12 @@
     color: #5b5b5b; 
   }
   100% {
-    color: #fff;
+    color: #000;
   }
 }
 
 .commands {
-  width: 204px;
+  width: 212px;
   background: #000;
   display: flex;
   flex-wrap: wrap;
@@ -42,13 +42,14 @@
 
 .command {
   width: 50px;
-  height: 45px;
+  height: 50px;
   background: #ddd;
-  margin: 0 1px 1px 0;
+  margin: 0 3px 3px 0;
   text-align: center;
   padding-top: 10px;
   box-sizing: border-box;
   font-size: 18px;
+  border-radius: 25px 25px 25px 25px;
 }
 
 .command:nth-child(4n),
@@ -59,6 +60,7 @@
 
 .command.is-2col {
   flex-grow: 2;
+  
 }
 
 .command:active {
