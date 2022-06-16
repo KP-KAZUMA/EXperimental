@@ -1,1 +1,1 @@
-* 参考サイト:[https://codepen.io/ayuko/pen/NewyvO](https://codepen.io/isladjan/pen/abdyPBw)
+* 参考サイト:https://codepen.io/isladjan/pen/abdyPBw
