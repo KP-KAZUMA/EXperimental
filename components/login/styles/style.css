@@ -1,6 +1,4 @@
 /* Please ❤ this if you like it! */
-
-
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 
 body{
@@ -43,6 +41,7 @@ h6 span{
   width: 100%;
   display: block;
 }
+
 .full-height{
   min-height: 100vh;
 }
@@ -272,9 +271,6 @@ h6 span{
   color: #ffeba7;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
-
-
-
 
 .logo {
   position: absolute;
