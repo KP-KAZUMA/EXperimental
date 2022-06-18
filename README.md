@@ -7,5 +7,8 @@ index(トップページ)からいろいろな機能にアクセスする
   A["index"]
   B["degital<br>clock"]
   C["TODO"]
-      A-->B & C;
+  D["calculator"]
+  E["scroll<br>animation"]
+  F["login"]
+      A-->B & C & D & E & F;
 ```
