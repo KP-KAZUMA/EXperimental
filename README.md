@@ -10,5 +10,6 @@ index(トップページ)からいろいろな機能にアクセスする
   D["calculator"]
   E["scroll<br>animation"]
   F["login"]
-      A-->B & C & D & E & F;
+  G["checkbox"]
+      A-->B & C & D & E & F & G;
 ```
