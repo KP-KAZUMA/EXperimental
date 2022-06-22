@@ -11,5 +11,6 @@ index(トップページ)からいろいろな機能にアクセスする
   E["scroll<br>animation"]
   F["login"]
   G["checkbox"]
-      A-->B & C & D & E & F & G;
+  H["MiniGame"]
+      A-->B & C & D & E & F & G & H;
 ```
